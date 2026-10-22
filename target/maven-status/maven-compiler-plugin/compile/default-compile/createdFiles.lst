@@ -1,0 +1,11 @@
+com\example\util\DataInitializer.class
+com\example\model\Reservation.class
+com\example\MainApp.class
+com\example\cache\SimpleInMemoryRegionFactory$SimpleDomainStorageAccess.class
+com\example\service\ReservationService.class
+com\example\cache\SimpleInMemoryRegionFactory$SimpleBasicStorageAccess.class
+com\example\cache\SimpleInMemoryRegionFactory.class
+com\example\model\Utilisateur.class
+com\example\model\Salle.class
+com\example\util\MigrationExecutor.class
+com\example\util\PerformanceReport.class
